@@ -1,0 +1,54 @@
+body{
+    margin: 0px;
+    text-align: center;
+}
+.divname{
+    padding-top:100px;
+    background-color: #DAEAF1;
+    position:relative;
+}
+h1{
+    width: 150;
+    margin: 0 auto 0 auto;
+    font-family: Sacramento;
+}
+p{
+    margin-bottom: 0px;
+    margin-top: 0px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.topcloud{
+    position: absolute;
+    right:300px;
+}
+.buttomcloud{
+    position: absolute;
+    left:300px;
+}
+.bird{
+    position: absolute;
+    top: 450px;
+    left:600px
+}
+li{
+    display: inline-block;
+}
+.git{
+    position: relative;
+    right: 200px;
+}
+.linkedin{
+    position: relative;
+    right: 150px;
+}
+.insta{
+    position:relative;
+    right: 100px;
+}
+.mail{
+    position:relative;
+    right: 50px;
+}
+p{
+    font-family: 'Edu NSW ACT Foundation', cursive;;
+}

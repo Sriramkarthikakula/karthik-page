@@ -32,6 +32,7 @@ p{
 }
 li{
     display: inline-block;
+    color:#11999E;
 }
 .git{
     position: relative;

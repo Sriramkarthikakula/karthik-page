@@ -11,12 +11,17 @@ h1{
     width: 150;
     margin: 0 auto 0 auto;
     font-family: Sacramento;
+    color: #66BFBF;
     font-size:50px;
+}
+h2{
+    font-family: 'Edu NSW ACT Foundation', cursive;
+    color: #66BFBF;
 }
 p{
     margin-bottom: 0px;
     margin-top: 0px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: 'Edu NSW ACT Foundation', cursive;
 }
 .topcloud{
     position: absolute;
@@ -24,12 +29,9 @@ p{
 }
 .buttomcloud{
     position: absolute;
-    left:300px;
-}
-.bird{
-    position: absolute;
-    top: 450px;
-    left:600px
+    left:280px;
+    top:270px;
+    border-radius: 30px;
 }
 li{
     display: inline-block;
@@ -51,6 +53,11 @@ li{
     position:relative;
     right: 50px;
 }
-p{
-    font-family: 'Edu NSW ACT Foundation', cursive;
+.freelancingimage{
+    float:left;
+    margin-right:30px;
+}
+.web{
+    float: right;
+    margin-left: 30px;
 }

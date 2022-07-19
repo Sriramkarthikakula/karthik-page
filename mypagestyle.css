@@ -61,4 +61,9 @@ li{
     float: right;
     margin-left: 30px;
 }
-
+hr{
+    border: 6px dotted #b5c4df;
+    border-bottom: none;
+    width: 3%;
+    margin-top: 3%;
+}

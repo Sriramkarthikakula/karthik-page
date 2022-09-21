@@ -1,5 +1,5 @@
 body{
-    margin: 0px;
+    margin: 0%;
     text-align: center;
 }
 .divname{
@@ -8,30 +8,30 @@ body{
     position:relative;
 }
 h1{
-    width: 150;
+    width: 50%;
     margin: 0 auto 0 auto;
     font-family: Sacramento;
     color: #66BFBF;
-    font-size:50px;
+    font-size:312.5%;
 }
 h2{
     font-family: 'Edu NSW ACT Foundation', cursive;
     color: #66BFBF;
 }
 p{
-    margin-bottom: 0px;
-    margin-top: 0px;
+    margin-bottom: 0%;
+    margin-top: 0%;
     font-family: 'Edu NSW ACT Foundation', cursive;
 }
 .topcloud{
     position: absolute;
-    right:300px;
+    right:20%;
 }
 .buttomcloud{
     position: absolute;
-    left:280px;
-    top:275px;
-    border-radius: 30px;
+    left:15%;
+    top:40%;
+    border-radius: 4.8%;
 }
 li{
     display: inline-block;
